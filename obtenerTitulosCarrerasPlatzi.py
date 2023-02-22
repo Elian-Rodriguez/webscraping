@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 
 #UDUARIO A BUSCAR
 user=str(input("DIGITE EL USUARIO : "))
-#user='elianeduardor451'
+
 
 
 #CONFIGURACION DE ARCHIVO DE LOG O DE SALIDA
