@@ -27,7 +27,11 @@ Biblioteca Selenium
 Biblioteca BeautifulSoup
 # Uso
 Descargue y extraiga el archivo de Microsoft Edge Driver para su sistema operativo y versión de Microsoft Edge desde: https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+
 Instale las bibliotecas necesarias utilizando pip: pip install selenium y pip install beautifulsoup4
+
 Ejecute el script usando el comando python platzi_courses.py
+
 Digite el nombre de usuario que desea buscar
+
 El script creará un archivo de texto con el nombre del usuario y una lista de los cursos y carreras completados por ese usuario. El archivo se guardará en el directorio desde el cual se ejecuta el script.
