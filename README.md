@@ -18,14 +18,14 @@ Manejo de excepciones: el manejo de excepciones en Python permite controlar erro
 Conocimientos básicos de programación: el uso de estructuras de control de flujo, el manejo de variables y la lógica de programación son fundamentales para la creación de scripts eficientes y eficaces.
 
 
-#Script de Python para obtener los cursos y carreras completadas por un usuario en Platzi
+# Script de Python para obtener los cursos y carreras completadas por un usuario en Platzi
 Este script utiliza la biblioteca Selenium para abrir un navegador, navegar a la página de perfil de un usuario en Platzi y obtener la lista de cursos y carreras completados por ese usuario.
 
-#Requisitos
+# Requisitos
 Python 3.x
 Biblioteca Selenium
 Biblioteca BeautifulSoup
-#Uso
+# Uso
 Descargue y extraiga el archivo de Microsoft Edge Driver para su sistema operativo y versión de Microsoft Edge desde: https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
 Instale las bibliotecas necesarias utilizando pip: pip install selenium y pip install beautifulsoup4
 Ejecute el script usando el comando python platzi_courses.py
